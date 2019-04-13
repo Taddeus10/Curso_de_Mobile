@@ -1,0 +1,9 @@
+No método principal realizr o cadastro de um professor, aluno, curso e materia. Além disso imprima as seguintes informações de registro:
+
+- Nome do aluno;
+- Curso do aluno;
+	Detalhes do curso:
+		nome do curso;
+		materias;
+		professore;
+		horário das aulas;
