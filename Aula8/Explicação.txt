@@ -1,0 +1,58 @@
+Dicionario java
+
+list - arraylist
+
+set - machset
+
+map - hash map
+
+interface - 
+
+
+interface
+
+oque é
+um tipo de contrato
+
+quando usar
+quero manter um padrão
+
+sintaxe
+não tem atributos
+
+
+lista
+
+é um mesmo tipo de dados, 
+
+a ordem não deve ser alterada
+
+o mesmo objeto pode esta presente mais de uma vez.
+
+
+List <tipovalor> lista - new ArrayList<>();
+
+interface - tipo de objetto        classe concreta
+
+Set 
+
+set é diferente do list o seu diferencial não importa a ordem e não pode ter repetição.
+
+Set <tipovalor> conjunto = new HashSet<>();
+Interface - tipo de objeto       classe concreta
+
+Map
+
+Associar uma chave a um valor é igual ao dicionário
+
+as chaves são unicas
+
+Map <tipochave, tipovalor> map = new HashMap<>();
+
+Map <String, Pessoa> passa = new HashMap<>();
+
+
+foreat = pegar o objeto
+
+
+
