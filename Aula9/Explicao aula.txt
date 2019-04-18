@@ -1,0 +1,40 @@
+Aula 10
+
+Equals, overloading, override, this, tostring e hashcode
+
+Equals(comparação entre objetos e lists)
+Equals é usado para comparação de objetos
+
+Para objetos usamos o equals.
+
+a = equals(b);
+
+Hashcode(comparação para o set)
+
+quando 2 objetos são iguais.
+
+
+toString()
+
+retorna uma representação string de um objeto.
+
+this
+
+referencia - ou seja, aponta a propria classe.
+
+Exemplo:
+Animal cachorro = new Animal("viralata", "Bidu", "1.2");
+
+
+
+o que é um cast
+é uma conversão
+
+exemplo:
+
+int numero = 10;
+
+double numero2 = (double) numero;
+
+fica desta maneira.
+numero2 = 10.0
