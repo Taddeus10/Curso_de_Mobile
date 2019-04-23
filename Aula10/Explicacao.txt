@@ -1,0 +1,22 @@
+Exception - Execeção
+
+Try e catch
+
+
+Um problema de compilação do código.
+
+o que aconte quando dividimos por zero em calculadora
+aparece erro mas o programa continua.
+
+Em qual exemplos de exceções:
+
+- Divisão por zero;
+- Consultar atributos\metedos de um objeto;
+
+O que acontece?
+quando acontece uma exceção, uma mensagem é exibida na linha de comando e a exececução do programa é finalizada.
+
+O que fazer diante de uma exceção?
+
+Pilha de execução.
+ 
