@@ -43,9 +43,16 @@ public class MainActivity extends AppCompatActivity {
     private void addFragment(Fragment fragment){
         FragmentManager manager = getSupportFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
-        transaction.add(R.id.container, fragment);
+        transaction.replace(R.id.container, fragment);
         transaction.addToBackStack("FRAGMENTS");
         transaction.commit();
+
+        //Pode ser feito assim
+        /*getSupportFragmentManager().beginTransaction()
+                .replace(R.id.container, fragment)
+                .addToBackStack("FRAGMENTS")
+                .commit();
+         */
     }
 
     private void initViews() {
